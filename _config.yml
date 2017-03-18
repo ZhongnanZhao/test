@@ -1,1 +1,22 @@
 theme: jekyll-theme-minimal
+template:
+    directory: template
+
+title: test Documentation
+subTitle: Php test
+
+baseUrl: https://zhongnanzhao.github.io/test
+menu:
+    sections:
+        getting-started:
+            name: Getting Started
+            items:
+                PHP1:
+                    text: "php1"
+                    relativeUrl: stu/php1.html
+                PHP2:
+                    text: "php1"
+                    relativeUrl: stu/php2.html
+                简单shell脚本:
+                    text: "shell"
+                    relativeUrl: stu/简单shell脚本.html
